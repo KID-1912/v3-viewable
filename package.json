@@ -1,0 +1,22 @@
+{
+  "name": "v3-viewable",
+  "version": "1.0.0",
+  "description": "vue3图片内容查看——useViewable；vue3 image content viewer - useViewable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KID-1912",
+  "homepage": "https://github.com/KID-1912/v3-viewable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KID-1912/v3-viewable"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "vue-demi": "^0.14.8"
+  },
+  "peerDependencies": {
+    "@vueuse/core": "^10.11.0"
+  }
+}

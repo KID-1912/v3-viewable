@@ -1,1 +1,1 @@
-export { useViewable } from "./useViewable.js";
+export { useViewable } from "./src/useViewable.js";

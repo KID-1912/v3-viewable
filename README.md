@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/v3-viewable">
+  <a href="https://www.npmjs.com/package/v3-viewable" target="_blank">
     <img
      alt="NPM URL"
      src="https://img.shields.io/badge/npm-v3Viewable?logo=npm">
@@ -20,6 +20,12 @@
   <img
      alt="version"
      src="https://img.shields.io/badge/version-1.0.0-blue">
+</p>
+
+<p>
+  <a href="https://github.com/KID-1912/v3-viewable-demo" target="_blank">
+    v3-viewable-demo
+  </a>
 </p>
 
 ## Install

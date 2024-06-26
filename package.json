@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/KID-1912/v3-viewable"
   },
+  "exports": {
+    "./component": "./src/component.js"
+  },
   "license": "ISC",
   "dependencies": {
     "vue-demi": "^0.14.8"
